@@ -1,5 +1,4 @@
-
-## Olá, sou o Noé Fernandes
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=Olá,+sou+o+Noé+Fernandes)](https://git.io/typing-svg)
 
 Olá! Meu nome é Noé Fernandes e tenho quase dois anos de experiência como desenvolvedor de software Java, concentrando-me especialmente no desenvolvimento web. Sou reconhecido por ser um profissional dedicado, estudioso e apaixonado por colaborar em equipe. Estou sempre motivado a enfrentar novos desafios e buscar soluções inovadoras com alto padrão de qualidade.
 
