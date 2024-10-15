@@ -4,8 +4,9 @@
 Olá! Meu nome é Noé Fernandes e tenho quase dois anos de experiência como desenvolvedor de software Java, concentrando-me especialmente no desenvolvimento web. Sou reconhecido por ser um profissional dedicado, estudioso e apaixonado por colaborar em equipe. Estou sempre motivado a enfrentar novos desafios e buscar soluções inovadoras com alto padrão de qualidade.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noefernandes&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="200" alt="Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noefernandes&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" height="200" alt="Top Languages" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=noefernandes&theme=material-palenight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=noefernandes&theme=material-palenight&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 
 
