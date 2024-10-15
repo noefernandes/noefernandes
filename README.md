@@ -3,21 +3,23 @@
 
 Olá! Meu nome é Noé Fernandes e tenho quase dois anos de experiência como desenvolvedor de software Java, concentrando-me especialmente no desenvolvimento web. Sou reconhecido por ser um profissional dedicado, estudioso e apaixonado por colaborar em equipe. Estou sempre motivado a enfrentar novos desafios e buscar soluções inovadoras com alto padrão de qualidade.
 
-### Linguagens e ferramentas   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
-  <img align="center" alt="JUnit" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
-  <img align="center" alt="Github Actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noefernandes&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" height="200" alt="Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noefernandes&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" height="200" alt="Top Languages" />
 </div>
+
+
+### Linguagens
+[![My Skills](https://skillicons.dev/icons?i=java,go,python,js,html,css)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=spring,react,angular)](https://skillicons.dev)
+
+### Banco de dados
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
+
+### Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=aws,git,docker,kubernetes,githubactions)](https://skillicons.dev)
 
 ### Contatos
 <div style="display: inline_block"><br>
